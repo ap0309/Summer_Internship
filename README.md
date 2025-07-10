@@ -1,4 +1,4 @@
-# MERN 🏛 Real Estate App
+# MERN Real Estate App
 
 Real Estate App built on the MERN (MongoDB, Express, React, Node.js) stack. Whether you're looking to explore available properties for rent or sale, or you want to manage your own listings, our app has got you covered!
 
