@@ -80,7 +80,7 @@ const PrimaryPhoneInput = ({
           },
         }}
         defaultCountry={
-          countryCode ? countryCode.toLowerCase() : defaultCountry || "pk"
+          countryCode ? countryCode.toLowerCase() : defaultCountry || "in"
         }
         onChange={(e: any) => {
           onChange
